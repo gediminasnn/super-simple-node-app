@@ -1,4 +1,4 @@
-# super-simple-node-app
+# node-super-simple-app
 
 Simple node app made with the help of [codeSTACKr Node.js crash course](https://www.youtube.com/watch?v=2LUdnb-mls0)
 
